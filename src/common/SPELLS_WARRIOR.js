@@ -105,6 +105,87 @@ export default {
   //Relics
   //Tier Set Bonuses
 
+  // Fury
+    // Buffs
+    AVATAR: {
+        id: 107574,
+        name: 'Avatar',
+        icon: 'warrior_talent_icon_avatar'
+    },
+    ENRAGE: {
+        id: 184362,
+        name: 'Enrage',
+        icon: 'spell_shadow_unholyfrenzy'
+    },
+    FROTHING_BERSERKER: {
+        id: 215572,
+        name: 'Frothing Berserker',
+        icon: 'warrior_talent_icon_furyintheblood'
+    },
+    // Buffs end
+
+    // Offensive
+    WHIRLWIND: {
+        id: 199667,
+        name: 'Whirlwind',
+        icon: 'ability_whirlwind',
+    },
+    WHIRLWIND_OFFHAND: {
+        id: 44949,
+        name: 'Whirlwind Off-Hand',
+        icon: 'ability_whirlwind',
+    },
+    BLOODTHIRST: {
+        id: 23881,
+        name: 'Bloodthirst',
+        icon: 'spell_nature_bloodlust',
+    },
+    RAGING_BLOW: {
+        id: 96103,
+        name: 'Raging Blow',
+        icon: 'warrior_wild_strike',
+    },
+    FURIOUS_SLASH: {
+        id: 100130,
+        name: 'Furious Slash',
+        icon: 'ability_warrior_weaponmastery',
+    },
+    EXECUTE: {
+        id: 5308,
+        name: 'Execute',
+        icon: 'inv_sword_48',
+    },
+    ODYNS_FURY: {
+        id: 205547,
+        name: 'Odyn\'s Fury',
+        icon: 'inv_sword_1h_artifactvigfus_d_01',
+    },
+    // Offensive End
+
+    // Defensives
+    ENRAGED_REGENERATION: {
+        id: 184364,
+        name: 'Enraged Regeneration',
+        icon: 'ability_warrior_focusedrage',
+    },
+    GIFT_OF_THE_NAARU: {
+        id: 28880,
+        name: 'Gift of the Naaru',
+        icon: 'spell_holy_holyprotection',
+    },
+    BERSERKER_RAGE: {
+        id: 18499,
+        name: 'Berserker Rage',
+        icon: 'spell_nature_ancestralguardian',
+    },
+    COMMANDING_SHOUT: {
+        id: 97462,
+        name: 'Commanding Shout',
+        icon: 'ability_warrior_rallyingcry',
+    },
+    // Defensives End
+
+
   // Shared:
   BATTLE_CRY: {
     id: 1719,
